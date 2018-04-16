@@ -1,0 +1,2 @@
+Firefox geckodriver path:
+C:\Users\PramsKetu\Documents\Softwares\geckodriver-v0.19.1-win32\geckodriver.exe
